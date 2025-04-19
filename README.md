@@ -44,8 +44,9 @@ Rules are evaluated sequentially, with only the first applicable rule being exec
 
 ## Repository Structure
 /pricing-engine
-├── products.csv # Product catalog with prices/costs
-├── sales.csv # Recent sales data (30-day period)
-├── pricing_engine.py # Core pricing logic implementation
-├── updated_prices.csv # Generated output (after script execution)
-└── README.md # This documentation
+├── products.csv # Product catalog with prices/costs 
+├── sales.csv # Recent sales data (30-day period) 
+├── pricing_engine.py # Core pricing logic implementation 
+├── updated_prices.csv # Generated output (after script execution) 
+└── README.md # This documentation 
+
