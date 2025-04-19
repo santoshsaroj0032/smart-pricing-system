@@ -50,3 +50,13 @@ Rules are evaluated sequentially, with only the first applicable rule being exec
 ├── updated_prices.csv # Generated output (after script execution) 
 └── README.md # This documentation 
 
+
+
+## How to Run
+
+1. Install dependencies:
+   ```bash
+   pip install pandas
+2. Exucute the Pricing Engine:
+   ```bash
+    python pricing_engine.py
